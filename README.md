@@ -2,8 +2,13 @@
 
 Hello User.
 
-Please use the below URL's to perform the operations via postman(chrome plugin)
+# To compile 
+mvn compile
 
+# To run 
+mvn spring-boot:run
+
+Please use the below URL's to perform the operations via postman(chrome plugin)
 
 List All Vehicles:
 http://localhost:8081/vehicles
